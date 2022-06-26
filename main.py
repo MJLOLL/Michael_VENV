@@ -1,4 +1,5 @@
-# importar o App, Builder (GUI)
+# # importar o Kivy
+# # importar o App, Builder (GUI)
 # # criar o nosso aplicativo
 # # criar a função build
 
